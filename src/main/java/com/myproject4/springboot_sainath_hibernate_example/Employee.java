@@ -5,7 +5,7 @@ import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.GenerationType;
 import jakarta.persistence.Id;
 
-@Entity(name ="employee")
+//@Entity(name ="employee")
 public class Employee 
 {
 	@Id
